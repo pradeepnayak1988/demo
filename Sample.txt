@@ -4,3 +4,6 @@ This is a sample data file for test.
 
 1. Learn creating new repository
 2. Learn committing new file
+3. Learn creating branch
+
+Thank You!
