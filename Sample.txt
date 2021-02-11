@@ -6,5 +6,7 @@ This is a sample data file for test.
 2. Learn committing new file
 3. Learn creating branch
 
+4. Learn pull and push code
+
 Regards,
 Pradeep
